@@ -1,0 +1,37 @@
+Arguments: 
+  C:\Program Files (x86)\nodejs\node.exe C:\Users\Doreen Radiance\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js add nodemon --dev
+
+PATH: 
+  C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Program Files (x86)\nodejs\;C:\Users\Doreen Radiance\AppData\Local\Microsoft\WindowsApps;C:\Users\Doreen Radiance\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Doreen Radiance\AppData\Local\GitHubDesktop\bin;C:\Users\Doreen Radiance\AppData\Local\Microsoft\WindowsApps;C:\Users\Doreen Radiance\AppData\Roaming\npm
+
+Yarn version: 
+  1.22.4
+
+Node version: 
+  14.15.5
+
+Platform: 
+  win32 ia32
+
+Trace: 
+  Error: read ECONNRESET
+      at TLSWrap.onStreamRead (internal/stream_base_commons.js:209:20)
+
+npm manifest: 
+  {
+    "name": "MiddleWareAssign",
+    "version": "1.0.0",
+    "description": "Implementing General and Specific Middle Wares",
+    "main": "index.js",
+    "author": "DOREEN ANUM",
+    "license": "MIT",
+    "scripts": {
+      "start": "node index.js"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
